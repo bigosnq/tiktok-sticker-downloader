@@ -93,3 +93,6 @@ If you want to move these animations to an iPhone, they must be standard animate
 ## 🔒 Security & Performance Notice
 - **Personal Use Only**: This utility is designed strictly for private backup and account management.
 - **Signed URLs**: TikTok sticker URLs use short-lived cryptographic signatures. Always perform the scanning and downloading process in the same browser session to ensure that signatures do not expire.
+
+
+## Discord Contact : bajgos.nq
