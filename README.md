@@ -95,4 +95,4 @@ If you want to move these animations to an iPhone, they must be standard animate
 - **Signed URLs**: TikTok sticker URLs use short-lived cryptographic signatures. Always perform the scanning and downloading process in the same browser session to ensure that signatures do not expire.
 
 
-## Discord : bajgos.nq
+## Discord : bigos.nq
