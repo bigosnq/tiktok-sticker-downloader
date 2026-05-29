@@ -1,4 +1,4 @@
-# 🎬 TikTok Sticker Saver (v1.2)
+# 🎬 TikTok Sticker Downloader (v1.2)
 
 A powerful, light-weight Chrome extension and local automation utility designed to **bulk download static and animated stickers/GIFs** from TikTok Direct Message (DM) conversations, and convert them to true `.gif` animations that play natively on **iOS / iPhone camera roll and Photos app**.
 
